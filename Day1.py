@@ -1,0 +1,7 @@
+print("test")
+print("Hello, World!")
+print("This is Day 1 Python script.")
+print("Let's start coding!")
+print("Goodbye, World!")
+print("End of Day 1 script.")
+print("Have a great day!")
